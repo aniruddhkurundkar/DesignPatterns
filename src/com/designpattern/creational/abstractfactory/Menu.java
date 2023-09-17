@@ -3,6 +3,13 @@ package com.designpattern.creational.abstractfactory;
 import java.util.ArrayList;
 import java.util.List;
 
+
+/**
+ * Abstract Factory design pattern provides an interface for creating families of
+ * related or dependent objects without specifying their concrete classes.
+ * An abstract factory is the class that provides an interface to produce family of objects.
+ *
+ */
 public class Menu {
 
     public static void main(String[] args){
